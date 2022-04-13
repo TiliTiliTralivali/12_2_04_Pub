@@ -22,7 +22,7 @@ Dillinger es un editor HTML5 Markdown habilitado para la nube, listo para dispos
 - Ver HTML a la derecha
 - magia
 
-# 00000000
+
 
 # verdadero
 
