@@ -26,7 +26,7 @@ Dillinger es un editor HTML5 Markdown habilitado para la nube, listo para dispos
 
 # verdadero
 
-- Import a HTML file and watch it magically convert to Markdown
+- Importe un archivo HTML y observe cómo se convierte mágicamente en Markdowngh
 - Arrastra y suelta imágenes (requiere que tu cuenta de Dropbox esté vinculada)
 
 Tú también puedes:
